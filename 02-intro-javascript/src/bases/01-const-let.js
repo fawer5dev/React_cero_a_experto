@@ -24,5 +24,6 @@ if (true) {
     console.log(nombre);
 }
 
-// Print the value of 'valorDado' outside the if block (it will be 4, since the reassignment inside the if block does not affect the variable outside of it)
+// Print the value of 'valorDado' outside the if block (it will be 4, 
+// since the reassignment inside the if block does not affect the variable outside of it)
 console.log(valorDado);

@@ -27,4 +27,3 @@ person2.name = 'Pepe';
 
 // Use console.log to print the modified 'person2' object to the console
 console.log(person2);
-
