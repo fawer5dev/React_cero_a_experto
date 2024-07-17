@@ -1,55 +1,46 @@
+# Do You Want to Learn React or Transition to Working with Hooks?
 
-# Master React with Hooks: From Zero to Hero!
+This course aims to take you from zero knowledge of React to a competitive level in today's job market. This course is built 100% with Hooks and functional components.
 
-Welcome to the ultimate React course designed to transform you from a beginner to a proficient developer in today's competitive work environment. This course focuses entirely on Hooks and functional components, ensuring you are up-to-date with the latest React practices.
+It also includes sections on unit and integration testing in each application we create during the course. This includes tests on components, hooks, customHooks, context, Redux, Fetch, mocks, spies, snapshots, and much more related to unit testing.
 
-## Why This Course?
+Remembering that we all start from zero at some point, the course includes an introduction to the concepts we will need to enter React in the most comfortable way possible.
 
-- **Comprehensive Learning**: Over 400 lessons and 40+ hours of video content.
-- **Hands-On Projects**: Build multiple applications with unit and integration testing.
-- **In-Depth Testing**: Learn to test components, hooks, customHooks, context, Redux, Fetch, mocks, spies, snapshots, and more.
-- **Modern Techniques**: Transition smoothly from class-based components to functional components.
+This course has over 400 lessons and more than 40 hours of video making various applications and tests that will help us achieve the goal of mastering React and other surrounding technologies. There are many tasks and exercises that will help you assimilate the necessary knowledge to become a FullStack Developer using React and Node on the Backend, along with Mongo and Firestore as databases.
 
-## Course Highlights
+Here is a list of several of the topics covered in the course:
 
-### Core React Concepts
 - React in Depth
 - Hooks and Custom Hooks
 - Functional Components
-- Higher-Order Components (HOC)
+- HOC - Higher-Order Components
 - Context API
 - Redux
-
-### Full-Stack Development
-- MERN Stack: MongoDB, Express, React, Node.js
-- Routing and Layouts
-- Bootstrap Integration
+- MERN - Mongo + Express + React + Node
+- Router
+- Different Designs on Different Routes
+- Bootstrap
 - Mongoose
 - JWT and Re-validation
 - Password Encryption
-- Google Sign-In
+- Google Sign-in
 - Custom Authentication
-
-### Testing and Deployment
-- Unit Testing
-- Specialized Testing per Application
+- Unit Test
+- Specialized Tests on Each Finished Application
 - Deployments to Production
-- Enzyme, Jest, and React Testing Library
-- Mocks and Animations
-- Git and GitHub
-- Heroku and Heroku Logs
-- Redux DevTools and React DevTools
-
-### Advanced Topics
+- Enzyme
+- Jest
+- React Testing Library
+- Mocks
+- Component Animations
+- History
 - QueryStrings
-- History Management
+- Heroku and Heroku Logs
+- Git and Github
+- Redux DevTools
+- React DevTools
+- And Much More!
 
-## Who Should Take This Course?
+This course is for anyone who wants to learn React, transition from Class-Based Components to Functional Components, specialize in testing, dive into Redux, Firebase, Context, or simply learn something new in a complete and functional way.
 
-- **Beginners**: Start with zero knowledge and build a strong foundation.
-- **Experienced Developers**: Transition from class-based to functional components.
-- **Test Enthusiasts**: Specialize in testing with Enzyme, Jest, and React Testing Library.
-- **Full-Stack Aspirants**: Dive into the MERN stack and build full-fledged applications.
-- **Learners of All Kinds**: Whether you want to learn something new or deepen your existing knowledge, this course is for you!
-
-Join us on this journey to master React and become a Full-Stack Developer with hands-on projects, detailed lessons, and a community of learners. Let's get started and build something amazing together!
+[Link to the course](https://www.udemy.com/course/react-cero-experto/)
